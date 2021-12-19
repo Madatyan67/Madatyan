@@ -1,5 +1,5 @@
 ﻿
-namespace Turvandyan
+namespace Madatyan
 {
     partial class Form1
     {
